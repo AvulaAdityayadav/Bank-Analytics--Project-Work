@@ -1,2 +1,2 @@
-# HealthCare-Analytics-Project
-HEALTHCARE-ANALYTICS/PROJECT-DASHBOARD
+# Bank-Analytics-Project
+Bank-ANALYTICS/PROJECT-DASHBOARD
